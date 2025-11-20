@@ -1,3 +1,4 @@
+#FCS
 # LTI - Sistema de Seguimiento de Talento
 
 Este proyecto es una aplicación full-stack con un frontend en React y un backend en Express usando Prisma como ORM. El frontend se inicia con Create React App y el backend está escrito en TypeScript.
